@@ -1,0 +1,1 @@
+INSERT INTO `users` (`id`, `username`, `email`, `password`, `grade`, `created_at`) VALUES (NULL, 'tottohooo', 'udoxgtiz@uef.cd', '$2y$1f0$KbLwRAOXRZFs5hc/f13AWOcAm/wkOIB1Li7Z6aEbCf2kPE8hpVVEC', '1', '2024-05-29 13:03:40');
